@@ -2,7 +2,9 @@
 Software Test, Automation QA
 
 By: Timothy Johnson
+
 December 2024
+
 Professor Tuft
 
 Module 8 Journal
