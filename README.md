@@ -16,4 +16,5 @@ I’ve found that understanding user needs starts with carefully breaking down t
 When designing software, I like to start by really understanding the problem at hand and then dividing it into smaller, manageable pieces. For instance, in the Contact Service project, I designed the Contact and ContactService classes separately to keep things organized and reusable. I also think about how the software might grow in the future and write clean, modular code to make updates easier down the line. For me, designing software is like solving a puzzle, it’s all about putting the right pieces in place to create something meaningful.
 
 Thanks for reading,
+
 Timothy Johnson
